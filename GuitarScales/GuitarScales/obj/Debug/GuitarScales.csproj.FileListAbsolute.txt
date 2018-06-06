@@ -1,0 +1,15 @@
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\bin\Debug\GuitarScales.exe.config
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\bin\Debug\GuitarScales.exe
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\bin\Debug\GuitarScales.pdb
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales.csprojResolveAssemblyReference.cache
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\MainWindow.g.cs
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\App.g.cs
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales_MarkupCompile.cache
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales_MarkupCompile.lref
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\MainWindow.baml
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales.g.resources
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales.Properties.Resources.resources
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales.csproj.GenerateResource.Cache
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales.csproj.CoreCompileInputs.cache
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales.exe
+C:\Users\bartl\source\repos\GuitarScales\GuitarScales\obj\Debug\GuitarScales.pdb
